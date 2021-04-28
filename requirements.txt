@@ -1,0 +1,6 @@
+numpy==1.19.5
+fastapi==0.63.0
+starlette==0.13.6
+tensorflow==2.2-rc3
+Pillow==8.2.0
+uvicorn
