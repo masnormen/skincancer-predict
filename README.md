@@ -1,3 +1,3 @@
 # skincancer-predict
 
-git push -u origin main
+This project is an implementation of deploying TensorFlow models with Python and FastAPI.
